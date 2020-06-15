@@ -70,7 +70,7 @@ axios.get('https://lambda-times-backend.herokuapp.com/articles')
         });
     })
 
-axios.get('https://lambda-times-backend.herokuapp.com.articles')
+axios.get('https://lambda-times-backend.herokuapp.com/articles')
     .then((response) => {
         response.data.articles.jquery.forEach((Object) => {
             newCard = card(Object);

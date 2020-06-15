@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+    It is a representation of the document in browser memory.  By manipulating/using the DOM you eliminate reloading  the entire page each time something changes.
+
 2. What is an event?
+
+    Anything that happens on the screen...moving the mouse, clicking, double clicking, hitting a key.
 
 3. What is an event listener?
 
+    The process of listening for and recognizing and event on the screen.  When an event listener is triggered another action occurs.
+
 4. Why would we convert a NodeList into an Array?
 
+    It allows some array functions that it normally would not have.
+
 5. What is a component?
+
+    A smaller reusable bit of code.  
 
 ### Git Set up
 
